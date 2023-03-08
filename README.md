@@ -8,8 +8,4 @@ Provide a short description explaining the what, why, and how of your project. U
 
 Below is an image of the generator after it has generated a random password. You click on the generate password button then answer a prompt for the length, followed by confirming what values you'd like in your password.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
     ![Password Generator](assets/images/PWgen-SS.png)
-    ```
