@@ -54,7 +54,7 @@ function generatePassword(){
 
 
   for(i = 0; i < pwLength; i++){
-    // Randomly decide what category to pick from from the numberOfValidCategories variable
+    // Randomly decides what category to pick from from the numberOfValidCategories variable
     var randomIndex =  Math.floor(Math.random() * numberOfValidCategories);
     var selectedCategory = arrayOfCategories[randomIndex];
 
@@ -76,13 +76,9 @@ function generatePassword(){
       characterToAdd = specialChars[index];
     }
 
-  
-    
-
     password = password + characterToAdd;
     
   }
-
 
   return password;
 }
