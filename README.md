@@ -8,4 +8,4 @@ Provide a short description explaining the what, why, and how of your project. U
 
 Below is an image of the generator after it has generated a random password. You click on the generate password button then answer a prompt for the length, followed by confirming what values you'd like in your password.
 
-    ![Password Generator](assets/images/PWgen-SS.png)
+![Password Generator](assets/images/PWgen-SS.png)
