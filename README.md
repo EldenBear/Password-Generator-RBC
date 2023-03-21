@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# Password-Generator-RBC
 
 ## Description
 Link to deployed app: https://eldenbear.github.io/RBC-Module-3-PWGen/
